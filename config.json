@@ -1,0 +1,12 @@
+{
+    "telegramToken": "8358575275:AAEAbJPWlfKHe66WmCULtOS7y0yRO7Hn8bU",
+    "prefix": "",
+    "owners": ["7058073597"],
+    "allowedGroups": [],
+    "messages": {
+      "ownerOnly": "❌ هذا الأمر مخصص للمطورين فقط.",
+      "groupOnly": "❌ هذا الأمر يعمل فقط في المجموعات.",
+      "notAllowedGroup": "❌ هذه المجموعة غير مسموح لها باستخدام البوت.",
+      "error": "❌ حدث خطأ أثناء تنفيذ الأمر."
+    }
+  }
